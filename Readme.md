@@ -34,8 +34,8 @@ You'll learn about:
 
 Find the presentation slides for each session here:
 
-- **Session 1 Slides:** [https://github.com/Open-Source-Community/Get-To-Git-27/blob/master/session-1/GetToGit_pt1.pdf](#)
-- **Session 2 Slides:** [https://github.com/Open-Source-Community/Get-To-Git-27/blob/master/session-2/GetToGit_pt2.pdf](#)
+- **[Session 1 Slides](https://github.com/Open-Source-Community/Get-To-Git-27/blob/master/session-1/GetToGit_pt1.pdf)**
+- **[Session 2 Slides](https://github.com/Open-Source-Community/Get-To-Git-27/blob/master/session-2/GetToGit_pt2.pdf)**
 
 ## 🎵 Learning Playlist
 
